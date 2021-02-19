@@ -6,7 +6,7 @@ from selenium.webdriver.common.by import By
 import pyautogui
 from time import sleep
 
-isim ="Egemen"
+isim =""###
 driver = webdriver.Chrome()
 driver.get("https://web.whatsapp.com/")
 driver.maximize_window()

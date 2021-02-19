@@ -1,0 +1,2 @@
+# WpStickerBotu
+Kullanımı:
